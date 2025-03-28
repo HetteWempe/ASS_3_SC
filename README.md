@@ -1,5 +1,10 @@
 # Scientific Computing Assignment 3
 
-Code should really have comments on what each portion does.
+This assignment is concerned with eigenmodes of drums or membranes of different shapes and using direct methods for solving steady state problems. 
 
-Contents of a file should be clear from its name.
+
+
+solutions to exercises 3.1. and 3.2 can be found in in the folder named 'code'.
+
+The animation of question 3.1e can be found within the code of exercise 3.1.
+
